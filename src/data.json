@@ -1,0 +1,13 @@
+{
+  "levels": [
+      {"q": "door", "a": "house"},
+      {"q": "camera", "a": "movie"},
+      {"q": "city", "a": "building"},
+      {"q": "fruit", "a": "apple"},
+      {"q": "shoe", "a": "boot"},
+      {"q": "book", "a": "page"},
+      {"q": "car", "a": "traffic"},
+      {"q": "sugar", "a": "chocolate"}
+  ],
+  "alphabet": "abcdefghijklmnopqrstuvwxyz"
+}

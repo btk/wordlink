@@ -1,0 +1,21 @@
+.bgCarrier {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.background {
+    height: 100%;
+    width: 100%;
+}
+
+.shadow {
+    height: 130%;
+    width: 200%;
+    border-radius: 50%;
+    position: fixed;
+    top: -15%;
+    left: -50%;
+}
