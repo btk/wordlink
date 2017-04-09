@@ -2,7 +2,9 @@
 
 Little puzzle game/app for linking words, made with reactjs. View with chrome device toolbar.
 
-Implemented in under 3 hours. See live at <https://btk.github.io/wordlink/>
+Implemented in under 3 hours. See live at <https://btk.github.io/wordlink/index.html>
+
+![ss1](https://raw.githubusercontent.com/btk/wordlink/master/screenshots/ss1.png) ![ss2](https://raw.githubusercontent.com/btk/wordlink/master/screenshots/ss2.png)
 
 ## TODO
 
